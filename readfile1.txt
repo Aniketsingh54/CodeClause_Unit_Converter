@@ -1,0 +1,17 @@
+<option>farad[F]</option>
+<option>exafarad[EF]</option>
+<option>petafarad[PF]</option>
+<option>terafarad[TF]</option>
+<option>gigafarad[GF]</option>
+<option>megafarad[MF]</option>
+<option>kilofarad[kF]</option>
+<option>hectofarad[hF]</option>
+<option>dekafarad[daF]</option>
+<option>decifarad[dF]</option>
+<option>centifarad[cF]</option>
+<option>millifarad[mF]</option>
+<option>microfarad[µF]</option>
+<option>nanofarad[nF]</option>
+<option>picofarad[pF]</option>
+<option>femtofarad[fF]</option>
+<option>attofarad[aF]</option>

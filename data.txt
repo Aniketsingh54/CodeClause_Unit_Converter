@@ -1,0 +1,1 @@
+farad[F] exafarad[EF] petafarad[PF] terafarad[TF] gigafarad[GF] megafarad[MF] kilofarad[kF] hectofarad[hF] dekafarad[daF] decifarad[dF] centifarad[cF] millifarad[mF] microfarad[µF] nanofarad[nF] picofarad[pF] femtofarad[fF] attofarad[aF]
